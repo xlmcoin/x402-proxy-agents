@@ -6,7 +6,7 @@
  */
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "x402-proxy-nfts",
+	"name": "x402-proxy-agents",
 	"main": "src/index.ts",
 	"compatibility_date": "2025-10-08",
 	"observability": {
